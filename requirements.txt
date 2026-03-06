@@ -1,0 +1,21 @@
+# Artificial Curiosity Civilization — Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core scientific computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualisation
+streamlit>=1.32.0
+plotly>=5.18.0
+
+# Utilities
+dataclasses-json>=0.6.4
+typing-extensions>=4.9.0
+
+# Optional: accelerated neighbour search
+# scikit-learn>=1.4.0
+
+# Optional: save/load simulation state
+# cloudpickle>=3.0.0
